@@ -1,2 +1,0 @@
-# GROUP-3
-DSA_PROJECT
